@@ -7,6 +7,9 @@ https://github.com/huggingface/community-events/tree/main/whisper-fine-tuning-ev
 #### Leaderboard results
 https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=mozilla-foundation%2Fcommon_voice_11_0&only_verified=0&task=automatic-speech-recognition&config=or&split=test&metric=wer
 
+#### Winners
+https://huggingface.co/spaces/whisper-event/winners?dataset=mozilla-foundation%2Fcommon_voice_11_0
+
 #### TODOs
 Apply audio augmentation from  
 https://wandb.ai/parambharat/whisper_finetuning/reports/Fine-tuning-Whisper-for-low-resource-Dravidian-languages--VmlldzozMTYyNTg0
