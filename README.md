@@ -10,3 +10,6 @@ https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=mozilla-foundati
 #### TODOs
 Apply audio augmentation from  
 https://wandb.ai/parambharat/whisper_finetuning/reports/Fine-tuning-Whisper-for-low-resource-Dravidian-languages--VmlldzozMTYyNTg0
+
+#### Look at the use of `forced_decoder_ids`
+https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig.forced_decoder_ids
